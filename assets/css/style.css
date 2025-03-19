@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #ff9a9e, #fad0c4);
+    text-align: center;
+    color: #333;
+}
+
+header {
+    background: #ff6f61;
+    padding: 20px;
+    color: white;
+}
+
+#hero img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+}
+
+button {
+    background: #ff6f61;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: #ff3b30;
+}
